@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-direction: column;
+}
+
+.container-m{
+    display: flex;
+    flex-direction: row; 
+    flex: auto;
+}
+
+#artcss{
+    flex: 2;
+    overflow-y: auto; 
+}
+
+#asidecss{
+    flex: 1;
+    overflow-y: auto; 
+}
+
